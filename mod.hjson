@@ -1,0 +1,10 @@
+{
+    displayName: Duct Router
+    repo: GenericUser252/DuctRouter
+    name: neon
+    author: 465_
+    description: No spoilers, play at your own risk!
+    subtitle: Who put neon in the silicon smelter!?
+    minGameVersion: 146
+    version: 0.1
+}
